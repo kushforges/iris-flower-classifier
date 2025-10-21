@@ -24,5 +24,5 @@ Click below to open the hosted version on Streamlit Cloud:
 |------|--------------|
 | `iris_app.py` | Streamlit application code |
 | `requirements.txt` | List of dependencies |
-| `IrisFlowerClassifier.pdf` | Project report (if applicable) |
+| `IrisFlowerClassifier.pdf` | Project report |
 | `README.md` | Project overview and instructions |
