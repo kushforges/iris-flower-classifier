@@ -78,5 +78,5 @@ Before running the app, you must install all required Python libraries.
 | `iris_app.py` | Streamlit application code |
 | `requirements.txt` | List of dependencies |
 | `projectreport.pdf` | Project report |
-| `evidence.pdf` | Evidence of Ongoing Product Development / Deployment |
+| `evidence of ongoing deployment.pdf` | Evidence of Ongoing Product Development / Deployment |
 | `README.md` | Project overview and instructions |
